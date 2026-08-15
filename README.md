@@ -27,9 +27,6 @@ View the interactive dashboard here:
 
 👉 **[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI5ZTg3ZWItNjBkYi00YWM4LTg0MDAtNWI4MDIyOTExZjllIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=b7964c50bfc5c589502f)**
 
-*(Placeholder for Dashboard GIF/Preview Image)*
-> `<img src="path_to_your_image.png" alt="Dashboard Preview" width="800"/>`
-
 ---
 
 ## 🚀 Features & KPIs
